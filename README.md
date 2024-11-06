@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @sathvika138
-- 👀 I’m interested in Learning 
-- 🌱 I’m currently learning Software Testing
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sathvikaredd138@gmail.com and (https://www.linkedin.com/in/sathvika-reddy08/)
+- 👋 Hi, I’m Sathvika Reddy
+- 👀 I’m interested in Software Testing and development
+- 🌱 I’m currently learning Testing Techniques and Best Practices
+- 💞️ Love to contribute to projects and challenge myself to improve
+- 📫 How to reach me sathvikaredd138@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I once learned how to manufacture an electric bicycle 😄
+- ! Hobbies: I Paint and read 
 
 <!---
 sathvika138/sathvika138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
