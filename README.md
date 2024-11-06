@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning 
 - 🌱 I’m currently learning Software Testing
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sathvikaredd138@gmail.com and linkedin.com/in/sathvika-reddy08
+- 📫 How to reach me sathvikaredd138@gmail.com and (https://www.linkedin.com/in/sathvika-reddy08/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 
